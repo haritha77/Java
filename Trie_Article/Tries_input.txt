@@ -1,0 +1,9 @@
+Microsoft	Microsoft Coporation, Inc.
+Apple, Inc.	iPhone	Apple	iOS
+Google	Pixel
+Jhonson & Jhonson	Python	Javascript	Java
+Cloud	Skype	OneDrive	Cortana
+Pepsi-Cola	Brad's Drink 
+3Com	A&M Records	Colgate-Palmolive
+27b/6	19 Entertainment Coporation, Inc.	
+21st Century Fox
